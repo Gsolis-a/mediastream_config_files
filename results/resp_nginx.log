@@ -1,0 +1,4 @@
+Cantidad total de registros: 5000
+Cantidad de registros con HTTP STATUS CODE = 200: 5000
+Cantidad de registros registrados con timestamp 2022-02-04T16:21: 3059
+Cantidad de registros con HTTP USER AGENT = Dalvik/2.1.0 (Linux; U; Android 9; WOM Build/PI): 1776
